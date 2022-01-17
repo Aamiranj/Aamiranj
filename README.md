@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Aamir Anjum
 - 👀 I’m a bigtime foodie and love music
-- 🌱 I’m currently learning Business Analysis
 
 <!---
 Aamiranj/Aamiranj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
